@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWAIN1998/Express-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWAIN1998/Express-js/issues"
+  },
+  "homepage": "https://github.com/SWAIN1998/Express-js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
